@@ -11,7 +11,7 @@ A toolkit for collecting, processing, and exploring university data, developed b
 
 UniVerse is a collection of notebooks and scripts to:
 
-- **Gather** data on Lebanese universities (LU, LAU, LIU…)
+- **Gather** data on Lebanese universities (LU, LAU, LIU)
 - **Clean & preprocess** raw CSV/JSON dumps
 - **Visualize** co-authorship networks, enrollment trends, etc.
 - **Export** polished tables and plots for reports
