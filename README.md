@@ -1,7 +1,6 @@
 # UniVerse
-![UniVerse Logo](images/uniVerse.png)
 <p align="center">
-  <img src="assets/logo.png" width="200" alt="UniVerse Logo" />
+  <img src="images/uniVerse.png" width="200" alt="UniVerse Logo" />
 </p>
 
 A toolkit for collecting, processing, and exploring university data, developed by Rim Chehade and Karen Timiani.
