@@ -1,4 +1,5 @@
 # UniVerse
+![UniVerse Logo](UniVerse_Logo/uniVerse.png)
 
 A toolkit for collecting, processing, and exploring university data, developed by Rim Chehade and Karen Timiani.
 
