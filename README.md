@@ -1,6 +1,6 @@
 # UniVerse
 
-A toolkit for collecting, processing, and exploring university data—developed by Rim Chehade and Karen Timiani.
+A toolkit for collecting, processing, and exploring university data, developed by Rim Chehade and Karen Timiani.
 
 ---
 
