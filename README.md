@@ -7,14 +7,23 @@ A toolkit for collecting, processing, and exploring university data, developed b
 
 ---
 
-## About
+## Features
 
-UniVerse is a collection of notebooks and scripts to:
+- Compare Lebanese universities (LU, LAU, LIU)
+- Ask questions via text or voice (Whisper-enabled)
+- Retrieve accurate answers using Agentic RAG
+- Export conversations (PDF format)
+- Lightweight frontend (HTML/CSS/JS) connected to a Flask backend
 
-- **Gather** data on Lebanese universities (LU, LAU, LIU)
-- **Clean & preprocess** raw CSV/JSON dumps
-- **Visualize** co-authorship networks, enrollment trends, etc.
-- **Export** polished tables and plots for reports
+---
+
+##Stack
+
+- **Backend:** Flask (Python)
+- **Frontend:** HTML, CSS, JavaScript
+- **Deployment:** Kaggle + ngrok
+- **Model:** meta-llama/Llama-2-7b-chat-hf + FAISS + BAAI/bge-large-en-v1.5
+- **Voice:** OpenAI Whisper for speech-to-text
 
 ---
 
@@ -28,5 +37,6 @@ The main codebase and backend are hosted on Kaggle. This GitHub repo will serve 
 To integrate:
 
 1. Open the Kaggle notebook and click **Copy & Edit** to clone into your Kaggle account.
-2. Download the notebook and any generated scripts via **File > Download**.
-3. Commit those files into this GitHub repo under the appropriate folders (e.g., `Data Collection/`, `Data Processing/`, `backend/`).
+2.  Run all cells to start the Flask server, then copy the ngrok URL shown in the output (e.g., https://xxxx.ngrok-free.app).
+3. Paste the URL into **script.js** by replacing the existing backend URL.
+4. Open **index.html** in your browser to start using the chatbot.
