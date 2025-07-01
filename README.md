@@ -17,7 +17,7 @@ A toolkit for collecting, processing, and exploring university data, developed b
 
 ---
 
-##Stack
+## Stack
 
 - **Backend:** Flask (Python)
 - **Frontend:** HTML, CSS, JavaScript
