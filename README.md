@@ -31,7 +31,7 @@ A toolkit for collecting, processing, and exploring university data, developed b
 
 The main codebase and backend are hosted on Kaggle. This GitHub repo will serve as the front-facing project, pulling in core notebooks and scripts as needed.
 
-- **Kaggle notebooks:** [https://www.kaggle.com/karentimani/agenitic-rag](https://www.kaggle.com/karentimani/agenitic-rag)
+- **Kaggle notebooks:** [https://www.kaggle.com/code/karentimani/universe](https://www.kaggle.com/code/karentimani/universe)
 - **Live backend URL:** Uses an ngrok tunnel provided in the Kaggle notebook (update the `ngrok_url` in your frontend code when it changes)
 
 To integrate:
