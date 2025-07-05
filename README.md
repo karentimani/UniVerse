@@ -22,7 +22,7 @@ A toolkit for collecting, processing, and exploring university data, developed b
 - **Backend:** Flask (Python)
 - **Frontend:** HTML, CSS, JavaScript
 - **Deployment:** Kaggle + ngrok
-- **Model:** meta-llama/Llama-2-7b-chat-hf + FAISS + BAAI/bge-large-en-v1.5
+- **Model:** meta-llama/Llama-2-13b-chat-hf + FAISS + BAAI/bge-large-en-v1.5
 - **Voice:** OpenAI Whisper for speech-to-text
 
 ---
